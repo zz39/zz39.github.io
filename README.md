@@ -33,7 +33,7 @@ This website is deployed and configured from Azure Static App onto Azure Front D
 ![](/img/HooBank_interface.png)
 
 
-## [Project 3: Alien Invasion! (A Scrolling Shooter Arcade Game!](https://github.com/zz39/Pygame)
+## [Project 3: Alien Invasion! (A Scrolling Shooter Arcade Game!)](https://github.com/zz39/Pygame)
 
 This project is based on Pygame module in Python language.
 
