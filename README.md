@@ -22,7 +22,7 @@ Future development of this project includes cross-platform application, user rew
 
 Team Banana: Jake Van Meter, Jessica Tanumihardja, Shreya Goyal, Randy Ramli, Zhiwei Zhou, Chunyun Zhang
 
-## [Project 2: Hoo Bank (A fully Responsive Modern Bank/Financial Service Website)
+## [Project 2: Hoo Bank (A fully Responsive Modern Bank/Financial Service Website)](https://github.com/zz39/bank_modern_app)
 
 The Hoo Bank is a responsive bank website page with Modern UI/UX in React JS with Tailwind that auto-fits various screen sizes, including PCs, tablets, smartphones, and more. This website contains a hero section, high-quality assets, and gradients, business stats, reusable feature sections with call-to-action buttons, testimonials, etc.
 
