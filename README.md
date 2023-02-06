@@ -33,3 +33,18 @@ This website is deployed and configured from Azure Static App onto Azure Front D
 ![](/img/HooBank_interface.png)
 
 
+## [Project 3: Alien Invasion! (A Scrolling Shooter Arcade Game!](https://github.com/zz39/Pygame)
+
+This project is based on Pygame module in Python language.
+
+In Alien Invasion, the player controls a sip that appears at the bottom center of the screen. The player can move the ship right and left using the arrow keys and shoot bullets using the spacebar. When the game begins, a fleet of aliens fills the sky and moves across and down the screen. The player shoots and destroys the aliens. If the player shoots all the aliens, a new fleet appears that moves faster than the previous fleet. If any alien hits the player's ship, or reaches the bottom of the screen, the player loses a ship. If the player loses three ships, the game ends.
+
+The games has integrated scoring statistics and movement speed control when the player reaches higher levels. The more levels the player reaches, the difficulty and the score per alien destroyed will increase.
+
+**Screenshot of the game**
+
+![](/img/alien_invasion_interface.png)
+
+
+
+
