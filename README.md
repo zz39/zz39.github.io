@@ -14,7 +14,7 @@ The front-end was built using JavaScript. We were using Mapbox API (open source)
 
 Future development of this project includes cross-platform application, user rewards system (getting banana points!), and tracking other carbon saving choices such as household electricity and waste management. 
 
-**Screenshot of web interface**
+**Screenshot of the Web Interface**
 
 ![](/images/WebInterface_DriveAndWalk.png)
 
