@@ -1,6 +1,7 @@
 # Software Development Portfolio
 
 **Zhiwei(Wayne) Zhou**
+MSCS Student at Northeastern University | Software Developer 
 
 ## [Project 1: Banana Map (Winner of Northeastern University Hackathon 2023)](https://github.com/jwke21/team_banana_hackathon) 
 
