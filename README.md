@@ -14,7 +14,7 @@ For the back-end, we processed the CO2 emission dataset to get the average car m
 
 The front-end was built using JavaScript. We were using Mapbox API (open source) to show the map and get the distance between two addresses. The features includes trip distance calculator, CO2 emission tracking, kcal energy expenditure tracking, and equivalent banana calorie tracking. The web interface is shown below. 
 
-Future development of this project includes cross-platform application, user rewards system (getting banana points!), and tracking other carbon saving choices such as household electricity and waste management. The development team strives for encouring the uses to make eco-friendly choices regarding their commuting
+Future development of this project includes cross-platform application, user rewards system (getting banana points!), and tracking other carbon saving choices such as household electricity and waste management. The development team strives for encouraging the users to make eco-friendly choices regarding their commute.
 
 **Screenshot of the Web Interface**
 
