@@ -5,18 +5,16 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [Jessica Tanumihardja's Portfolio]
+title: [Wayne Zhou's Portfolio]
 
-#description: [Jessica Tanumihardja's data analytics projects] #customize below
+#description: [Wayne Zhou's data analytics projects] #customize below
 description:
   <p align="center">
-  <a href="https://www.linkedin.com/in/jessica-tanumihardja/" style="color:rgb(224,255,255); text-decoration:underline">LinkedIn</a> | 
-  <a href="https://github.com/jtanumihardja" style="color:rgb(224,255,255); text-decoration:underline">GitHub</a> 
+  <a href="https://www.linkedin.com/in/waynezhou39/" style="color:rgb(224,255,255); text-decoration:underline">LinkedIn</a> | 
+  <a href="https://github.com/zz39/" style="color:rgb(224,255,255); text-decoration:underline">GitHub</a> 
   </p>
   <p align="center">
-  M.S. Data Analytics in Engineering at Northeastern University
-  <br>
-  B.S. and M.S in Engineering at University of Washington
+  M.S. Computer Science at Northeastern University
   </p>
 
 # light cyan: , style="color:rgb(224,255,255);"
@@ -29,8 +27,8 @@ description:
 #plugins:
 #- jekyll-remote-theme
 
-#title: [Data Analytics Portfolio]
-#description: [Jessica Tanumihardja's data analytics projects]
+#title: [Computer Science Portfolio]
+#description: [Wayne Zhou's data analytics projects]
 
   #theme source: https://pages.github.com/themes/ 
 
@@ -38,6 +36,6 @@ description:
 
 #minimal:
 #  social_links:
-#    - { platform: github,  user_url: "https://github.com/jtanumihardja" }
-#    - { platform: linkedin, user_url: "https://www.linkedin.com/in/jessica-tanumihardja/" }
+#    - { platform: github,  user_url: "https://github.com/zz39/" }
+#    - { platform: linkedin, user_url: "https://www.linkedin.com/in/waynezhou39/" }
 
