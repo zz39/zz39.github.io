@@ -1,0 +1,43 @@
+#version: 2.0
+
+#Cayman theme (green)
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: [Jessica Tanumihardja's Portfolio]
+
+#description: [Jessica Tanumihardja's data analytics projects] #customize below
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/jessica-tanumihardja/" style="color:rgb(224,255,255); text-decoration:underline">LinkedIn</a> | 
+  <a href="https://github.com/jtanumihardja" style="color:rgb(224,255,255); text-decoration:underline">GitHub</a> 
+  </p>
+  <p align="center">
+  M.S. Data Analytics in Engineering at Northeastern University
+  <br>
+  B.S. and M.S in Engineering at University of Washington
+  </p>
+
+# light cyan: , style="color:rgb(224,255,255);"
+#rgb(255,160,122) LightSalmon
+# turqouise: style="color:rgb(175,238,238);
+#font-weight:bold
+
+#Minimal theme (Blue and white)
+#remote_theme: pages-themes/minimal@v0.2.0
+#plugins:
+#- jekyll-remote-theme
+
+#title: [Data Analytics Portfolio]
+#description: [Jessica Tanumihardja's data analytics projects]
+
+  #theme source: https://pages.github.com/themes/ 
+
+#theme: jekyll-theme-minimal
+
+#minimal:
+#  social_links:
+#    - { platform: github,  user_url: "https://github.com/jtanumihardja" }
+#    - { platform: linkedin, user_url: "https://www.linkedin.com/in/jessica-tanumihardja/" }
+
