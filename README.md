@@ -1,6 +1,4 @@
-# Software Development Portfolio
-
-**Zhiwei(Wayne) Zhou**
+# Wayne Zhou
 
 MSCS Student at Northeastern University | Software Developer | 💻🏀🎮🏖📖🌲🥤⛳️🏂🏠🪑
 
