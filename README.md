@@ -1,5 +1,3 @@
-# Wayne Zhou
-
 MS in Computer Science at Northeastern University | Software Developer | 💻🏀🎮🏖📖🌲🥤⛳️🏂🏠🪑
 
 ## [Project 1: Banana Map (Winner of Northeastern University Hackathon 2023)](https://github.com/jwke21/team_banana_hackathon) 
