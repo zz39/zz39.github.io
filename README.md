@@ -1,6 +1,8 @@
 MS in Computer Science at Northeastern University | Software Developer | 💻🏀🎮🏖📖🌲🥤⛳️🏂🏠🪑
 
-## [Project 1: Banana Map (Winner of Northeastern University Hackathon 2023)](https://github.com/jwke21/team_banana_hackathon) 
+
+
+## [Project: Banana Map (Winner of Northeastern University Hackathon 2023)](https://github.com/jwke21/team_banana_hackathon) 
 
 **Carbon Emission and Energy calculator by various transportation routes**
 
@@ -18,7 +20,7 @@ Future development of this project includes cross-platform application, user rew
 
 Team Banana: Jake Van Meter, Jessica Tanumihardja, Shreya Goyal, Randy Ramli, Zhiwei Zhou, Chunyun Zhang
 
-## [Project 2: Hoo Bank (A fully Responsive Modern Bank/Financial Service Website)](https://github.com/zz39/bank_modern_app)
+## [Project: Hoo Bank (A fully Responsive Modern Bank/Financial Service Website)](https://github.com/zz39/bank_modern_app)
 
 The Hoo Bank is a responsive bank website page with Modern UI/UX in React JS with Tailwind that auto-fits various screen sizes, including PCs, tablets, smartphones, and more. This website contains a hero section, high-quality assets, and gradients, business stats, reusable feature sections with call-to-action buttons, testimonials, etc.
 
@@ -29,7 +31,7 @@ This website is deployed and configured from Azure Static App onto Azure Front D
 ![](/img/HooBank_interface.png)
 
 
-## [Project 3: Alien Invasion! (A Scrolling Shooter Arcade Game!)](https://github.com/zz39/Pygame)
+## [Project: Alien Invasion! (A Scrolling Shooter Arcade Game!)](https://github.com/zz39/Pygame)
 
 This project is based on Pygame module in Python language.
 
